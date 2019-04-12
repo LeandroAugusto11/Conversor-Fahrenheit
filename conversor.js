@@ -1,3 +1,7 @@
+/**
+ * Conversor Fahrenheit para Celsius
+ * @author Leandro Augusto e Matheus Motta
+ */
 function calcular() {
     let f, c
 
